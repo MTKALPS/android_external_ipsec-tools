@@ -25,3 +25,4 @@
 #define RETSIGTYPE void
 
 #define ANDROID_PATCHED
+#define MTK_IPSEC_CHANGES
